@@ -1,18 +1,18 @@
 #############################################
-#											                      #
-#	Name: CSV column fusion      	            #
-#	Date: 04/01				                        #
-#   Ver: 1.0.0             					        #
-#	- Combines two CSV rows 				          #
-#	- Spaces and separates them with "///"	  #
-#	- Counts and orders						            #
-#	- Commented and notes added		            #
+#											#
+#	Name: CSV column fusion      	        #
+#	Date: 04/01				                #
+#   Ver: 1.0.0             					#
+#	- Combines two CSV rows 				#
+#	- Spaces and separates them with "///"	#
+#	- Counts and orders						#
+#	- Commented and notes added		        #
 #   - First Python App                      #
 #                                           #
 #   Next Edits                              #
 #   - Calc the mertial length               #
 #   - Run with input CSV name               #
-#	     									                    #
+#	     									#
 #############################################
 
 import csv
